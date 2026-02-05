@@ -1,0 +1,24 @@
+# Postman generated files
+newman/
+
+# Environment files with sensitive data (keep templates only)
+*.local.postman_environment.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary files
+tmp/
+temp/
